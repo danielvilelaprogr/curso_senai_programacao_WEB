@@ -15,9 +15,6 @@ inicio
     leia(curso)
     escreval("Digite o número da sua máquina")
     leia(n_maquina)
-    escreva("O aluno ",nome," de ", idade, " anos, do curso ",curso,".", n_maquina, " é o número da sua máquina ")
-
-    
-
+    escreva("Aluno ",nome," de ", idade, " anos, do curso ",curso,".", n_maquina, " é o número da sua máquina ")
 
 fimalgoritmo
