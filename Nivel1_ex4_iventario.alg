@@ -14,6 +14,9 @@ leia(item)
 escreval("Item registrado: " + item)
 escreval("Digite o nome do segundo item que chegou: ")
 leia(item)
-escreva("Item 1 descartado. Item 2 registrado: " + item)
+escreval("Item 1 descartado. Item 2 registrado: " + item)
+item<- "vazio"
 
 fimalgoritmo
+
+//usar uma variável só economiza memória

@@ -1,5 +1,3 @@
-// desafio 1
-
 algoritmo "Construtor de Data Centers"
 
 var
