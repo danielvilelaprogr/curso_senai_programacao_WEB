@@ -5,11 +5,16 @@ var
 capital_inicial: real
 juros: real
 meses: inteiro
-montante: (capital_inicial*(1+juros)^meses
 
-meses<-8
+
 
 inicio
+
+meses<-8
+capital_inicial<- 1000
+juros <- 0.5
+escreva("O montante é de: " + capital_inicial*(1+juros)^meses)
+
 
 
 fimalgoritmo

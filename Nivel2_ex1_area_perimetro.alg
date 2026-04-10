@@ -15,7 +15,7 @@ leia(comprimento)
 
 escreva("A área da sala (em metros) é de: " + largura*comprimento)
 escreva("O perímetro da sala (em metros) é de: " + (largura+largura+comprimento+comprimento))
-
+    
 fimalgoritmo
 
 
